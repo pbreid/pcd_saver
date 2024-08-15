@@ -1,0 +1,6 @@
+<launch>
+    <node name="pcd_saver" pkg="pcd_saver" type="pcd_saver" output="screen">
+        <param name="input_topic" value="/current_scan"/>
+        <param name="output_file" value="output.pcd"/>
+    </node>
+</launch>
