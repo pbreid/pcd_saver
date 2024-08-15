@@ -22,7 +22,7 @@
 1. **Clone the Repository**:
     ```bash
     cd ~/catkin_ws/src
-    git clone http://github.com/pbreid/pcd_saver
+    git clone https://github.com/pbreid/pcd_saver
     ```
 
 2. **Build the Package**:
