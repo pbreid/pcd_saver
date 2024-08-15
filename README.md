@@ -43,4 +43,4 @@
 You can run the node using the following command:
 
 ```bash
-rosrun my_pcl_saver pcd_saver _input_topic:=/your_pointcloud_topic _output_file:=/path/to/output.pcd _max_points:=1000000
+rosrun pcd_saver pcd_saver _input_topic:=/your_pointcloud_topic _output_file:=/path/to/output.pcd _max_points:=1000000
